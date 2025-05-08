@@ -70,6 +70,7 @@ Investigate specialized systems such as wetland agriculture, agroforestry, and u
 * **Soil Health Academy** – Regen Ag 101: Six principles of healthy ecosystems and adaptive stewardship ([Soil Health Academy][5])
 
 ---
+Learn more https://www.arktikeducation.org
 
 *This course is offered under the ARKTIK Hybrid License v3.0 (Education Edition).*
 

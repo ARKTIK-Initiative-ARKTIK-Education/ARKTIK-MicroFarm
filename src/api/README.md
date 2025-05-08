@@ -1,5 +1,5 @@
 # API Overview
-<img src="../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
+<img src="../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
 
 
 This folder contains the RESTful API endpoints powering e-commerce, subscription management, dashboards, and integration with external services.

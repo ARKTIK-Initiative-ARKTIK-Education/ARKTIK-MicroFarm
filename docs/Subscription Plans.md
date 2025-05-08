@@ -1,4 +1,6 @@
 # Subscription Plans
+<img src="../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
+
 
 ARKTIK MicroFarms offers AI-driven subscription services to optimize your yields, simplify maintenance, and support our educational mission. Choose the plan that fits your needs and budget.
 

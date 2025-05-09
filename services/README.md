@@ -36,7 +36,7 @@ Welcome to the **ARKTIK Initiative | MicroFarms** professional services catalog.
 
 ## Booking & Contact
 
-1. **Request a Quote:** Complete our online form at [arktikinitiative.org/services](https://arktikinitiative.org/services) with project details and location.
+1. **Request a Quote:** Complete our online form at [arktikeducation.org/services]([https://arktikinitiative.org/services](https://outlook.office.com/book/AcademyConsultation@arktikeducation.org/?ismsaljsauthenabled=true)) with project details and location.
 2. **Schedule a Site Visit:** A service coordinator will contact you within 2 business days to arrange an assessment.
 3. **Confirm & Pay:** Review the proposal, sign the service agreement, and pay a 25% deposit to secure your booking.
 4. **Service Delivery:** Our team (and student interns) will perform scheduled visits and deliver a post-service report.

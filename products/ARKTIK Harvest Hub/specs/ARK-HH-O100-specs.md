@@ -1,5 +1,5 @@
 # ARKTIK Oasis 100 Specifications
-<img src="../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
+<img src="../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
 
 **Model:** ARK-HH-O100
 **Type:** Full Kit + Concealed Drip Irrigation
